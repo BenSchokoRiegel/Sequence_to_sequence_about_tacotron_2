@@ -1,0 +1,25 @@
+1. What is Tacotron 2?
+2. How does Tacotron 2 generate speech?
+3. What is the architecture of Tacotron 2?
+4. What is the role of the text encoder in Tacotron 2?
+5. What is the role of the spectral encoder in Tacotron 2?
+6. What is the role of the WaveNet vocoder in Tacotron 2?
+7. How does Tacotron 2 use spectrograms?
+8. How does Tacotron 2 use character embeddings?
+9. How does Tacotron 2 use convolutional neural networks?
+10. How does Tacotron 2 use long short-term memory networks?
+11. How does Tacotron 2 compare to other speech synthesis methods?
+12. What are the limitations of Tacotron 2?
+13. What are the advantages of Tacotron 2?
+14. How can Tacotron 2 be improved?
+15. What is the difference between Tacotron and Tacotron 2?
+16. What is the role of attention in Tacotron 2?
+17. How does Tacotron 2 handle different accents and dialects?
+18. What is the training process for Tacotron 2?
+19. How long does it take to train Tacotron 2?
+20. How do you fine-tune Tacotron 2 for specific voices?
+21. What is the role of data augmentation in Tacotron 2?
+22. What is the effect of different hyperparameters on Tacotron 2's performance?
+23. How does Tacotron 2 handle out-of-vocabulary words?
+24. How does Tacotron 2 handle punctuation and intonation?
+25. What is the difference between Tacotron 2 and traditional text-to-speech systems?

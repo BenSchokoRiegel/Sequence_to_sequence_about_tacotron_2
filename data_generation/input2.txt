@@ -1,0 +1,5 @@
+Stelle 300 Fragen zu den folgenden Themen gebieten. Hauptthema ist dabei Tacotron 2. Dabei sollen die Fragen auf den Technischen, architecture, deep learning und Informatiklastigen Teil fallen. 
+Diese Fragen sollen nicht ethischer Natur sein rein Technisch.Keine Geselschaftlichen Fragen oder Anwendungsbereiche. Nur Technisch. Nur Fragen für Informatiker zu bentworten
+Dabei kann das Thema Tacotron 2 in den Fragen auch mit den Themen folgenden Themen kombiniert werden. Hauptthema bleiben aber alle Tacotron 2 besonderes wie es aufgebaut ist
+Themen für kombination Wavenet Sprachsynthese, Sequenz-zu-Sequenz-Architektur,Text-Encoder, spektralen Encoder und WaveNet-Vocoder, von Spectrogramen, Zeichen-Embedding, Faltungsnetze, LSTM etc 
+Höre erst auf mit dem generieren der 300 Fragen wenn du fertig bist. Die Fragen sollen maximal 12 wörter haben. 300 Fragen. Nicht aufhören 300 Fragen.

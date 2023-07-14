@@ -1,0 +1,25 @@
+Tacotron 2 has an encoder-decoder architecture with attention mechanism.
+Tacotron 2 generates speech by predicting spectrograms from text input.
+The Text Encoder encodes input characters into a fixed-dimensional embedding.
+The Spectral Encoder further encodes linguistic features into a higher-level representation.
+The WaveNet Vocoder converts predicted spectrograms into raw waveforms.
+Spectrograms are used as intermediate representations for speech synthesis in Tacotron 2.
+Character Embedding maps input characters to continuous representations.
+Convolutional Networks are used to process character embeddings in Tacotron 2.
+LSTM is significant for modeling temporal dependencies in Tacotron 2.
+Tacotron 2 utilizes the Sequence-to-Sequence architecture for speech synthesis.
+Tacotron 2's speech synthesis has spectrograms as input and raw waveforms as output.
+Attention mechanism is implemented to align input and output sequences in Tacotron 2.
+Tacotron 2 handles out-of-vocabulary words by using a fallback pronunciation lexicon.
+Tacotron 2 offers advantages such as naturalness and flexibility over traditional methods.
+Tacotron 2 can handle speech synthesis in different languages by training on multilingual data.
+Tacotron 2 has limitations in speech quality, especially in capturing fine details.
+Tacotron 2 models prosody and intonation through the attention mechanism.
+Training Tacotron 2 requires significant computational resources.
+Tacotron 2 can handle long input texts by splitting them into smaller chunks.
+Tacotron 2's training process involves optimizing model parameters using supervised learning.
+Tacotron 2 can handle noise in input text to some extent through robust training.
+The main components of Tacotron 2 are the Text Encoder, Spectral Encoder, and WaveNet Vocoder.
+Tacotron 2 handles punctuation and pauses in synthesized speech based on input text.
+Tacotron 2 can be used for real-time speech synthesis applications with optimized implementations.
+Tacotron 2 can handle emotional or expressive speech by conditioning the model on additional input features.

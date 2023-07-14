@@ -1,0 +1,25 @@
+Tacotron 2 has an encoder-decoder architecture.
+Tacotron 2 utilizes deep learning techniques for speech synthesis.
+The text encoder in Tacotron 2 encodes input text into a fixed-length vector.
+The spectral encoder in Tacotron 2 converts linguistic features into a spectrogram.
+Waveform synthesis in Tacotron 2 is done using the WaveNet vocoder.
+Using spectrograms in Tacotron 2 allows for better alignment and modeling of speech.
+Tacotron 2 handles character embedding to represent characters as continuous vectors.
+Convolutional networks in Tacotron 2 process spectrograms for feature extraction.
+LSTM is used in Tacotron 2 to model long-term dependencies in speech.
+Tacotron 2 achieves sequence-to-sequence architecture by mapping input text to spectrograms.
+Training Tacotron 2 poses challenges such as data scarcity and alignment issues.
+Tacotron 2 can potentially be used for languages other than English.
+Tacotron 2 is trained using a combination of supervised and unsupervised learning.
+Tacotron 2 can handle different speaking styles through conditioning techniques.
+Tacotron 2 has the capability to generate multiple voices.
+Tacotron 2 handles long inputs by chunking them into smaller segments.
+Tacotron 2 cannot generate speech in real-time due to its sequential processing nature.
+Limitations of Tacotron 2 include pronunciation errors and lack of expressiveness.
+Tacotron 2 handles noisy input data by training on augmented datasets.
+Tacotron 2 can potentially generate speech with different emotions or accents.
+Tacotron 2 handles out-of-vocabulary words by using grapheme-to-phoneme conversion.
+Computational requirements for training Tacotron 2 are high due to its complex architecture.
+Tacotron 2 can be adapted for other audio synthesis tasks beyond speech.
+Tacotron 2 can handle non-linguistic sounds or noises as long as they are within the training data.
+Potential future improvements for Tacotron 2 include better modeling of prosody and more efficient training algorithms.

@@ -1,0 +1,25 @@
+76. How does Tacotron 2 handle disambiguation of context-dependent words?
+77. What is the effect of different weight initialization distributions on Tacotron 2's performance?
+78. What is the effect of different weight tying methods on Tacotron 2's performance?
+79. How does Tacotron 2 handle disambiguation of rare words?
+80. What is the effect of different regularization methods on Tacotron 2's performance?
+81. What is the effect of different tokenization methods on Tacotron 2's performance?
+82. How does Tacotron 2 handle disambiguation of named entities?
+83. What is the effect of different normalization methods on Tacotron 2's performance?
+84. What is the effect of different attention mechanisms on Tacotron 2's performance?
+85. How does Tacotron 2 handle disambiguation of idiomatic expressions?
+86. What is the effect of different network initialization methods on Tacotron 2's performance?
+87. What is the effect of different network architectures on Tacotron 2's performance?
+88. How does Tacotron 2 handle disambiguation of compound words?
+89. What is the effect of different early stopping criteria on Tacotron 2's performance?
+90. What is the effect of different optimizer schedules on Tacotron 2's performance?
+91. How does Tacotron 2 handle disambiguation of phrasal verbs?
+92. What is the effect of different regularization strengths on Tacotron 2's performance?
+93. What is the effect of different pooling methods on Tacotron 2's performance?
+94. How does Tacotron 2 handle disambiguation of ambiguous pronouns?
+95. What is the effect of different hidden layer sizes on Tacotron 2's performance?
+96. What is the effect of different activation function derivatives on Tacotron 2's performance?
+97. How does Tacotron 2 handle disambiguation of negation and double negatives?
+98. What is the effect of different batch normalization strengths on Tacotron 2's performance?
+99. What is the effect of different dropout layer positions on Tacotron 2's performance?
+100. How does Tacotron 2 handle disambiguation of syntactic ambiguity?

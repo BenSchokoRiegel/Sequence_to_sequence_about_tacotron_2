@@ -1,0 +1,25 @@
+101. How does the WaveNet Vocoder handle speech synthesis for different recording conditions?
+102. How does the WaveNet Vocoder handle speech synthesis for different microphones?
+103. How does the WaveNet Vocoder handle speech synthesis for different recording devices?
+104. How does the WaveNet Vocoder handle speech synthesis for different sampling rates?
+105. What is the role of the Global Conditioning in the WaveNet Vocoder?
+106. What is the role of the Local Conditioning in the WaveNet Vocoder?
+107. What is the role of the Up-Sampling in the WaveNet Vocoder?
+108. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in ASMR?
+109. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in meditation?
+110. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in hypnosis?
+111. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in relaxation?
+112. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in sleep aid?
+113. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in therapy?
+114. What is the role of the Time-Delay Neural Network in the WaveNet Vocoder?
+115. What is the role of the Logarithmic Sampling in the WaveNet Vocoder?
+116. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in audio branding?
+117. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in advertising?
+118. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in voiceovers?
+119. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in jingles?
+120. How does the WaveNet Vocoder handle speech synthesis for different speaking styles in sound design?
+121. What is the role of the Causal Convolution in the WaveNet Vocoder?
+122. How does Tacotron 2 handle speech synthesis for different speaking styles in video games?
+123. How does Tacotron 2 handle speech synthesis for different speaking styles in augmented reality?
+124. How does Tacotron 2 handle speech synthesis for different speaking styles in virtual reality?
+125. What is the role of the Convolutional Transpose in the Post-Net?

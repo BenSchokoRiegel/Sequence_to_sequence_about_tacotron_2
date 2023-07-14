@@ -1,0 +1,25 @@
+26. How does Tacotron 2 perform on non-English languages?
+27. How does Tacotron 2 handle speaker recognition?
+28. How does Tacotron 2 handle noise and background sounds?
+29. What is the difference between Tacotron 2 and WaveNet?
+30. What is the difference between Tacotron 2 and other neural network-based speech synthesis systems?
+31. What is the role of learning rate in Tacotron 2?
+32. How does Tacotron 2 handle long sentences?
+33. How does Tacotron 2 handle short sentences?
+34. What is the effect of batch size on Tacotron 2's performance?
+35. How does Tacotron 2 handle prosody and emphasis?
+36. What is the effect of different loss functions on Tacotron 2's performance?
+37. What is the effect of different optimizers on Tacotron 2's performance?
+38. How does Tacotron 2 handle homonyms and homophones?
+39. How does Tacotron 2 handle sarcasm and irony?
+40. How does Tacotron 2 handle spoken vs written language?
+41. How does Tacotron 2 handle slang and informal language?
+42. What is the effect of different types of noise on Tacotron 2's performance?
+43. How does Tacotron 2 handle different speaking rates?
+44. How does Tacotron 2 handle different speaking styles?
+45. How does Tacotron 2 handle emotions and affective speech?
+46. How does Tacotron 2 handle interruptions and disfluencies?
+47. How does Tacotron 2 handle hesitation and uncertainty?
+48. How does Tacotron 2 handle breathing and pauses?
+49. What is the role of pre-processing in Tacotron 2?
+50. What is the role of post-processing in Tacotron 2?

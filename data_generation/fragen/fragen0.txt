@@ -1,0 +1,25 @@
+1. What is Tacotron 2?
+2. What is the architecture of Tacotron 2?
+3. How does Tacotron 2 use deep learning?
+4. How does Tacotron 2 generate speech?
+5. What is the difference between Tacotron and Tacotron 2?
+6. What are some limitations of Tacotron 2?
+7. How does Tacotron 2 handle different languages?
+8. How does Tacotron 2 handle different accents?
+9. How does Tacotron 2 handle background noise?
+10. How does Tacotron 2 handle different speaking styles?
+11. How does Tacotron 2 handle different emotions in speech?
+12. What is the role of the Text-Encoder in Tacotron 2?
+13. What is the role of the Spectral Encoder in Tacotron 2?
+14. What is the role of the WaveNet Vocoder in Tacotron 2?
+15. How does Tacotron 2 generate pitch and prosody?
+16. What is the role of the Attention Mechanism in Tacotron 2?
+17. How does Tacotron 2 handle long sentences?
+18. How does Tacotron 2 handle rare words or proper nouns?
+19. What is the role of the Mel-Spectrogram in Tacotron 2?
+20. How does Tacotron 2 handle diacritics in speech?
+21. What is the role of the Encoder-Decoder Architecture in Tacotron 2?
+22. What is the role of the Post-Net in Tacotron 2?
+23. How does Tacotron 2 handle speech synthesis for different genders?
+24. How does Tacotron 2 handle speech synthesis for different ages?
+25. What is the role of the F0 Conditioning in Tacotron 2?

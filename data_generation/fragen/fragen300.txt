@@ -1,0 +1,8 @@
+201. What is the role of the Mel-Spectrogram Scaling Factor in Tacotron 2?
+202. How does Tacotron 2 handle speech synthesis for different speaking styles in speech recognition with noise and multiple languages and accents and dialects?
+203. How does Tacotron 2 handle speech synthesis for different speaking styles in speech recognition with noise and multiple languages and multiple speakers?
+204. What is the role of the Convolutional Neural Network in the Text-Encoder?
+205. What is the role of the Sequence-to-Sequence Architecture in Tacotron 2?
+206. How does Tacotron 2 handle speech synthesis for different speaking styles in speech recognition with noise and multiple languages and overlapping speech?
+207. How does Tacotron 2 handle speech synthesis for different speaking styles in speech recognition with noise and multiple languages and music?
+208. What is the role of the Attention Mechanism in the Text-Encoder?

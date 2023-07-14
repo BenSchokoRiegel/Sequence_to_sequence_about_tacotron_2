@@ -1,0 +1,25 @@
+51. How does Tacotron 2 handle abbreviations and acronyms?
+52. How does Tacotron 2 handle foreign words and phrases?
+53. What is the effect of different window sizes on Tacotron 2's performance?
+54. What is the effect of different stride sizes on Tacotron 2's performance?
+55. How does Tacotron 2 handle tone and pitch?
+56. What is the effect of different learning schedules on Tacotron 2's performance?
+57. What is the role of dropout in Tacotron 2?
+58. What is the effect of different dropout rates on Tacotron 2's performance?
+59. How does Tacotron 2 handle non-standard spellings and typos?
+60. What is the effect of different network depths on Tacotron 2's performance?
+61. What is the effect of different network widths on Tacotron 2's performance?
+62. How does Tacotron 2 handle phonetic variation?
+63. What is the effect of different weight initialization methods on Tacotron 2's performance?
+64. What is the effect of different activation functions on Tacotron 2's performance?
+65. How does Tacotron 2 handle sentence boundaries?
+66. What is the effect of different training data sizes on Tacotron 2's performance?
+67. How does Tacotron 2 handle contractions and elisions?
+68. What is the effect of different beam search widths on Tacotron 2's performance?
+69. How does Tacotron 2 handle homograph disambiguation?
+70. What is the effect of different batch normalization methods on Tacotron 2's performance?
+71. How does Tacotron 2 handle disambiguation of multiple meanings?
+72. What is the effect of different weight decay methods on Tacotron 2's performance?
+73. What is the effect of different gradient clipping methods on Tacotron 2's performance?
+74. How does Tacotron 2 handle homophone disambiguation?
+75. What is the effect of different learning rate schedules on Tacotron 2's performance?

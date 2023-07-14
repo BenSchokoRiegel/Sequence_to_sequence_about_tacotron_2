@@ -1,0 +1,35 @@
+stelle dir selber 300 fragen und antworten über alles was mit Tacotron 2 in combination mit  wavenet, sequence to sequence text to speech und der algemeinen Architektur etc. zu tun hat
+Dabei sollen die Fragen in diesem Style und länge sein...
+Input:
+hi
+good morning
+good afternoon
+good evening
+good night
+how are you
+how are you doing
+what is your name
+whats your name
+may i have your name
+
+Output: 
+hi there
+good morning
+good afternoon
+good evening
+good night have a nice dream
+i am fine thank you
+doing good thank you
+my name is papaya and what do you want me to call you dear sir or madam
+my name is papaya may i also have your name please
+sure my name is papaya may i also have your name please
+
+Trenne die Fragen und Antworten von einander und schreibe auch keine 1. 2. dazu
+die Antwort soll dabei MAXIMAL 20 Wörter lang sein.... wenn es geht eher kürzer.
+Optimal sind dabei Fragen mit 5 Wörtern und Antworten mit 8 Wörtern
+Liste erst alle Fragen auf 
+Dann alle Antworten auf
+Schreibe keine Zahlen vor fragen oder antworten
+Schreib auch nicht Frage:
+NOCHMAL DIE ANZAHL ich will 300 Fragen und 300 Antworten.
+HAST DU verstanden 300 Fragen und 300 Antworten. nicht 15 Fragen oder 10. Ich will 300 Fragen und 300 Antworten

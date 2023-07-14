@@ -1,0 +1,25 @@
+Tacotron 2 uses the Wavenet model for speech synthesis.
+Sequence-to-sequence architecture helps in generating speech from input text.
+The text encoder converts input text into a fixed-dimensional vector representation.
+The spectral encoder extracts spectral features from the input text.
+Tacotron 2 uses WaveNet vocoder to generate speech from acoustic features.
+Spectrograms are used as intermediate representations of speech in Tacotron 2.
+Characters are embedded into the model's architecture for processing.
+Convolutional networks help in learning local context in Tacotron 2.
+Tacotron 2 incorporates LSTM units for sequence modeling.
+Attention mechanism helps the model focus on relevant parts of the input.
+Tacotron 2 handles long input sequences by using an attention mechanism.
+Tacotron 2 offers advantages in naturalness and expressiveness compared to previous models.
+Tacotron 2 is trained on a large dataset of speech and text pairs.
+Regularization techniques are used to prevent overfitting in Tacotron 2.
+Tacotron 2 handles out-of-vocabulary words by using a character-based approach.
+Tacotron 2 has significant computational requirements for real-time synthesis.
+Tacotron 2 can handle different languages and accents with appropriate training.
+Real-time speech synthesis is challenging for Tacotron 2 due to its computational demands.
+Pre-processing involves converting text into phonetic or linguistic features.
+Tacotron 2 handles noisy input signals by learning robust representations.
+Tacotron 2's limitations include occasional robotic or unnatural sounding speech.
+Tacotron 2 handles intonation and prosody through the attention mechanism.
+Tacotron 2 can be adapted for applications beyond speech synthesis with appropriate modifications.
+Tacotron 2 can handle pronunciation variations through its training data and attention mechanism.
+Potential future improvements of Tacotron 2 include better handling of long-range dependencies and improved naturalness.

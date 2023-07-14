@@ -1,0 +1,25 @@
+Tacotron 2 has an encoder-decoder architecture.
+Tacotron 2 generates speech by predicting mel-spectrograms from text.
+The text encoder encodes input text into a fixed-dimensional vector.
+The spectral encoder converts mel-spectrograms into a sequence of higher-level features.
+The WaveNet vocoder generates high-quality waveforms from predicted mel-spectrograms.
+Tacotron 2 takes text as input to generate speech.
+Character embedding maps characters to continuous vectors in Tacotron 2.
+Tacotron 2 handles long input sequences using attention mechanisms.
+Convolutional networks in Tacotron 2 provide robust local feature representations.
+Tacotron 2 handles prosody and intonation using prosody embedding.
+Tacotron 2 can handle different languages and accents through language-specific training.
+The training process for Tacotron 2 involves teacher-forcing and guided attention.
+Tacotron 2 handles out-of-vocabulary words using a fallback mechanism.
+Using a larger dataset improves the performance of Tacotron 2.
+Tacotron 2 can handle noisy or low-quality input text through robust feature extraction.
+Attention mechanisms in Tacotron 2 align input text with synthesized speech.
+Tacotron 2 handles pauses and silences using textual punctuation cues.
+The decoder in Tacotron 2 predicts mel-spectrograms from hidden states.
+Tacotron 2 handles phonetic variations through the use of linguistic features.
+Tacotron 2 has some limitations in terms of speech synthesis quality.
+Tacotron 2 can handle emotions and variations in speaking style through training data.
+LSTM networks in Tacotron 2 capture temporal dependencies in the speech generation process.
+Tacotron 2 can handle non-linguistic sounds or effects using additional conditioning.
+Training Tacotron 2 requires significant computational resources.
+Tacotron 2 compares favorably to other state-of-the-art speech synthesis models.

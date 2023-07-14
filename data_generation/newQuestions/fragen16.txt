@@ -1,0 +1,25 @@
+What is Tacotron 2 and how does it work?
+What is the architecture of Tacotron 2?
+How does deep learning play a role in Tacotron 2?
+Can you explain the role of the text encoder in Tacotron 2?
+What is the purpose of the spectral encoder in Tacotron 2?
+How does Tacotron 2 utilize the WaveNet vocoder?
+What are the benefits of using spectrograms in Tacotron 2?
+Can you explain the concept of character embedding in Tacotron 2?
+How are convolutional networks used in Tacotron 2?
+What role do LSTM models play in Tacotron 2?
+How does Tacotron 2 differ from the original Tacotron model?
+Can you explain the sequence-to-sequence architecture used in Tacotron 2?
+What are some challenges in implementing Tacotron 2?
+How does Tacotron 2 handle prosody and intonation in speech synthesis?
+Can you explain the training process of Tacotron 2?
+What are some limitations of Tacotron 2?
+How does Tacotron 2 handle out-of-vocabulary words?
+What are some potential applications of Tacotron 2?
+How does Tacotron 2 compare to other speech synthesis models?
+What are some potential future developments for Tacotron 2?
+Can Tacotron 2 be used for real-time speech synthesis?
+How does Tacotron 2 handle different languages and accents?
+What are the computational requirements for training Tacotron 2?
+Can Tacotron 2 be used for other audio synthesis tasks besides speech?
+What are some current research trends in improving Tacotron 2?
